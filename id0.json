@@ -1,0 +1,11 @@
+{
+    "name": "0",
+    "description": "description",
+    "image": "http://bafybeihv4l2ld2jmpq6aridixnz54i3fkmcrlpsvriq6rhllavx34u6nny.ipfs.localhost:8080/",
+    "attributes": [
+        {
+            "trait_type": "trait",
+            "value": 100
+        }
+    ]
+}
